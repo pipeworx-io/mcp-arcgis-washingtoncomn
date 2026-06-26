@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-arcgis-washingtoncomn",
+  "version": "0.1.0",
+  "description": "Washington County GIS — Washington County, Minnesota open geospatial data (ArcGIS).",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "arcgis-washingtoncomn"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-arcgis-washingtoncomn"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
