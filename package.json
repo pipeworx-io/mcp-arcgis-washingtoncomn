@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-washingtoncomn",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Washington County GIS — Washington County, Minnesota open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-5b2b641084cc69fc8638b49d119c9e5cafec74b292e97072005eb0f12234539e",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-3ec8e3f6ac51c7b9a9c1952f8e14d4993ee2a4687b4eb0c90a9ff12e4d6d0a65",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
